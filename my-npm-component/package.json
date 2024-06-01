@@ -1,0 +1,15 @@
+{
+  "name": "my-npm-component-perfect",
+  "version": "1.0.0",
+  "description": "The is my npm component",
+  "main": "my-npm-component.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "my-npm-component-perfect": "^1.0.0"
+  }
+}
